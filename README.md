@@ -1,4 +1,4 @@
-# LORA_GNSS_TRACKER
+# LORA_GNSS_TRACKER                                    bluelie
 
 A tracker using GNSS localisation and transmitting the data by LORA communication.
 
