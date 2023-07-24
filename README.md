@@ -15,7 +15,7 @@ Transmitter :
     - 3.3v Li-ion battery (For max 2 days of autonomy)
 
 Instruction : 
-    - Follow this wiki for hardware connections : https://www.waveshare.com/wiki/Pico-LoRa-SX1262
+     Follow this wiki for hardware connections : https://www.waveshare.com/wiki/Pico-LoRa-SX1262
 
     - Upload the content of /TX on the Pico, the main.py file will run automatically when Pico restart.
 
