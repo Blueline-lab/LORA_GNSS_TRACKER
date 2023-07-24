@@ -54,7 +54,9 @@ Instructions :
     - Run "cd /RX && sudo docker-compose up -d"
     - Run " cd /RX && sudo python3 USB_BRIDGE.py"
     
-    - Get your Receiver IP address and open the map in any browser on your local network, the webserver listen on port 5000
+    - Open your map in any browser on your local network by typing your Raspberry Pi IP address,
+    
+        The webserver listen on port 5000
         
         ex : "http://192.168.1.5:5000"
 
