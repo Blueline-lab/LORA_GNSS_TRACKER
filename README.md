@@ -17,7 +17,7 @@ Transmitter :
 Instructions : 
      Follow this wiki for hardware connections : https://www.waveshare.com/wiki/Pico-LoRa-SX1262
 
-    - Upload the content of /TX on the Pico, the main.py file will run automatically when Pico restart.
+    - Upload the content of /TX/ on the Pico, the main.py file will run automatically when Pico restart.
 
 <img src="IMG_9841.jpg" alt="Alt text" title="Optional title">
 
