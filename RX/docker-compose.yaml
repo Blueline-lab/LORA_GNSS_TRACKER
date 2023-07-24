@@ -1,0 +1,10 @@
+version: '3'
+services:
+  Flask:
+    image: flask_gnss
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./:/home
+    command:  sh -c "apt-get update && apt-get install python3 pip -y && cd /home && pip3 install -r /home/requirements.txt && flask run --host=0.0.0.0"
