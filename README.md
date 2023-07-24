@@ -12,7 +12,7 @@ Material used :
     - Li-ion battery charger regulator
     - SSD for Raspberry Pi 3B
 
-    <img src="IMG_9836.jpg" alt="Alt text" title="Optional title">
+<img src="IMG_9836.jpg" alt="Alt text" title="Optional title">
 
     
 
