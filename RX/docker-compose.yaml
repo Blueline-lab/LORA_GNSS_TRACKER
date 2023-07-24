@@ -1,7 +1,7 @@
 version: '3'
 services:
   Flask:
-    image: flask_gnss
+    image: ubuntu:latest
     restart: unless-stopped
     ports:
       - "5000:5000"
