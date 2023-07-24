@@ -1,8 +1,14 @@
 # LORA_GNSS_TRACKER                                    
-*contact : bluelinemecanics@gmail.com*
+
 A tracker using GNSS localisation and transmitting the data by LORA communication.
 
 Allow to transmit position until 10km // 2km in urban zone.
+
+
+
+
+_contact : bluelinemecanics@gmail.com_
+
 
 
 
@@ -62,7 +68,3 @@ Instructions :
 
 
 <img src="map.png" alt="Alt text" title="Optional title">
-
-
-You can contact me for issues or questions at : bluelinemecanics@gmail.com
-        
