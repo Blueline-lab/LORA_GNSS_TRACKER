@@ -1,4 +1,4 @@
-## LORA_GNSS_TRACKER                                    
+# LORA_GNSS_TRACKER                                    
 _blue
 A tracker using GNSS localisation and transmitting the data by LORA communication.
 
@@ -7,7 +7,7 @@ Allow to transmit position until 10km // 2km in urban zone.
 
 
 
-#Transmitter :
+## Transmitter :
     
     - Raspberry Pico
     - L76B GNSS Module for Raspberry Pi Pico (L76B GNSS Module for Raspberry Pi Pico)
@@ -29,7 +29,7 @@ Instructions :
 
 
 
-#Receiver :
+## Receiver :
     
     - Raspberry Pi 3B
     - Raspberry Pico
