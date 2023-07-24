@@ -29,3 +29,4 @@ while True:
         print("NO RECEPTION")
     pin.value(0)
     time.sleep(10)
+
