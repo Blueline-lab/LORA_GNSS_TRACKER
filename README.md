@@ -62,4 +62,7 @@ Instructions :
 
 
 <img src="map.png" alt="Alt text" title="Optional title">
+
+
+You can contact me for issues or questions at : bluelinemecanics@gmail.com
         
