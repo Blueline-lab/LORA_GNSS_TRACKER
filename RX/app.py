@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def base_point():
-        map = folium.Map(location=[48.277904, 2.100388], zoom_start=10)
+        map = folium.Map(location=[48.20, 2.10], zoom_start=10)
         first_marker = True
         first_value = ""
         array_coords = []
