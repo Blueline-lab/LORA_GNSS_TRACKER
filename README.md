@@ -45,7 +45,7 @@ Receiver :
 
 Instructions :
 
-    Upload the content of /RX/Pico on the Pico receiver and connect it by USB to the Raspberry Pi
+    Upload the content of /RX/Pico/ on the Pico receiver and connect it by USB to the Raspberry Pi
     
     
     Display Map on receiver local network :
