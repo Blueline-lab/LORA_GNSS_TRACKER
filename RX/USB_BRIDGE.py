@@ -3,7 +3,7 @@ from time import sleep
 Listen = Geodata_plotting()
 from random import uniform
 
-usb = "/dev/ttyACM0"
+usb = "/dev/ttyACM0"    #Pico USB connection could be ttyACM1 or other name device
 table = True
 last_value = ""
 
