@@ -23,3 +23,13 @@ Material used :
     - 3.3v Li-ion battery
 
 <img src="IMG_9841.jpg" alt="Alt text" title="Optional title">
+
+    Map on receiver local network :
+    - Install docker & docker-compose on the Raspberry Pi3B Receiver
+    - Run "cd /RX && sudo docker-compose up"
+    - Run " cd /RX && sudo python3 USB_BRIDGE.py"
+    - Get your Receiver IP address and type it on your browser on port 5000
+    
+        ex : "http://192.168.1.5:5000"
+<img src="map.png" alt="Alt text" title="Optional title">
+        
