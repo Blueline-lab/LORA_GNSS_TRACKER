@@ -14,7 +14,7 @@ Transmitter :
     - Pico-LoRa-SX1262 (https://www.waveshare.com/wiki/Pico-LoRa-SX1262)
     - 3.3v Li-ion battery (For max 2 days of autonomy)
 
-Instruction : 
+Instructions : 
      Follow this wiki for hardware connections : https://www.waveshare.com/wiki/Pico-LoRa-SX1262
 
     - Upload the content of /TX on the Pico, the main.py file will run automatically when Pico restart.
@@ -24,6 +24,10 @@ Instruction :
 
 
     
+
+
+
+
 
 Receiver :
     
@@ -39,7 +43,12 @@ Receiver :
 
     
 
-Display Map on receiver local network :
+Instructions :
+
+    Upload the content of /RX/Pico on the Pico receiver and connect it by USB to the Raspberry Pi
+    
+    
+    Display Map on receiver local network :
     
     - Install docker & docker-compose on the Raspberry Pi3B Receiver
     - Run "cd /RX && sudo docker-compose up -d"
